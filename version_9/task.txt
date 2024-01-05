@@ -1,0 +1,6 @@
+1. alret total
+
+2. url detect table -> link to view all scanning result
+
+3. chart
+
